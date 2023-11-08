@@ -23,7 +23,9 @@ python3 compare.py -d1 mod1路径 -d2 mod2路径 -mode simple
 -h 帮助
 
 -mode: 有两个值
-`simple` 简版模式，只比较有效总行数差异
+
+`simple` 简版模式，只比较有效总行数差异。
+
 `detail` 详版模式，精细到行差异
 
 -d1 mod1路径。从namespace下一级开始填。比如，mod放在目录 `resource/EdwinRomance/output/` 目录下，则只需要填 `output`。d2同理。
