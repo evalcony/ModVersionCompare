@@ -11,8 +11,9 @@
 ```
 . init_shell.sh
 ```
+2. 将要比对的mod文件，分别放入 `resource/namespace/` 下不同目录中。
 
-2. 执行
+3. 执行
 ```
 python3 compare.py -d1 mod1路径 -d2 mod2路径 -mode simple
 ```
