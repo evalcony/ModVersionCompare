@@ -1,0 +1,12 @@
+
+.DS_Store
+
+.idea/
+
+__pycache__/
+
+appconf.ini
+
+readlog.txt
+
+resource/
